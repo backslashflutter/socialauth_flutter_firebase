@@ -10,6 +10,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>fb628934748241011</string>
+				<string>socialauth</string>
 				<string>com.googleusercontent.apps.55074450439-kmbe6ehvo9kh9lsbge6fsdsu6dv2tsjl</string>
 			</array>
 		</dict>
